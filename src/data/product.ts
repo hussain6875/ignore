@@ -7,6 +7,27 @@ export const products = [
     image: "/361d862ec03600c0049e4cb24fc9b0f2.jpg",
   },
   {
+    id: 1,
+    name: "Royal Oud & Amber",
+    price: 389,
+    description: "A majestic blend of rare oud and golden amber",
+    image: "/361d862ec03600c0049e4cb24fc9b0f2.jpg",
+  },
+  {
+    id: 1,
+    name: "Royal Oud & Amber",
+    price: 389,
+    description: "A majestic blend of rare oud and golden amber",
+    image: "/361d862ec03600c0049e4cb24fc9b0f2.jpg",
+  },
+  {
+    id: 1,
+    name: "Royal Oud & Amber",
+    price: 389,
+    description: "A majestic blend of rare oud and golden amber",
+    image: "/361d862ec03600c0049e4cb24fc9b0f2.jpg",
+  },
+  {
     id: 2,
     name: "Velvet Rose Noir",
     price: 245,
